@@ -1,5 +1,4 @@
 # ContyJet
----
 My hackapet submission (which I would like to request for it to purposely come late)
 
 ## Features
